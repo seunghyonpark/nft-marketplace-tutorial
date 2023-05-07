@@ -41,8 +41,5 @@
   },
   "ct3aMetadata": {
     "initVersion": "6.5.2"
-  },
-  "pkg": {
-    "assets": ["node_modules/.prisma/client/*.node"]
   }
 }
